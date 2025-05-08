@@ -6,7 +6,7 @@ To generate a PWM wave at the timer pin output and  simuate it on  proteus using
 ### Components required:
 STM32 CUBE IDE, Proteus 8 simulator .
 
-### Theory:
+#### Theory:
 
 The timer modules can operate a variety of modes one of which is the PWM mode. Where the timer gets clocked from an internal source and counts up to the auto-reload register value, then the output channel pin is driven HIGH. And it remains until the timer counts reach the CCRx register value, the match event causes the output channel pin to be driven LOW. And it remains until the timer counts up to the auto-reload register value, and so on.
 
