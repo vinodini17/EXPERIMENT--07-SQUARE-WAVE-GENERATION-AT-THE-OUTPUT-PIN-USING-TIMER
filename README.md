@@ -214,7 +214,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  
 
-## DUTY CYCLE AND FREQUENCY CALCULATION 
+## DUTY CYCLE AND FREQUENCY CALCULATION:
 ### FOR DUTY RATIO 50%
 ![Screenshot 2025-05-07 150116](https://github.com/user-attachments/assets/e226d5d0-0a76-454c-8fad-de76370a9cb1)
 
