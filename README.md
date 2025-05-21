@@ -237,10 +237,8 @@ TOTAL TIME = 1.2ms
 
 FREQUENCY = 1/(1.2ms) = 833.33Hz
 
-
 ### FOR DUTY RATIO 90%
 ![Screenshot 2025-05-07 150830](https://github.com/user-attachments/assets/4df9cfbd-c246-4b48-bfa4-45daa915e638)
-
 
 TON = 1.08ms
 
@@ -256,7 +254,6 @@ FREQUENCY = 1/(1.2ms) = 833.33Hz
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
 ![Screenshot 2025-05-07 152010](https://github.com/user-attachments/assets/23b836c2-3821-45df-a6ae-b57d2ad2f9ca)
 
- 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated.
 
